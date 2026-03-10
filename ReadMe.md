@@ -29,7 +29,7 @@ const now = new NepaliDate();
 console.log(now.format("YYYY-MM-DD"));
 ```
 
-For more advanced usage, please refer to the [Wiki](https://nepalidate.sandip-ghimire.com).
+For more advanced usage, please refer to the [Wiki](https://nepalidate.sandip-ghimire.com.np).
 
 ## License
 
